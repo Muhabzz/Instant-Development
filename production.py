@@ -20,8 +20,8 @@ class ConfigLoader:
         }
 
         self.config["dev_credentials"] = {
-            "smb_user": "ctfuser",
-            "ssh_pass": "Password123!",
+            "ftp_user": "Instant_User",
+            "ftp_pass": "Password123!",
             "note": "REMOVE BEFORE PRODUCTION"
         }
 
